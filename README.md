@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Yovan K 👋
 
-<!--
-**Yovan155/Yovan155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SEO & AI-Assisted Content Executive | Digital Marketing | B2B SaaS Growth
 
-Here are some ideas to get you started:
+📍 Erode, Tamil Nadu, India  
+🌍 Open to Remote, Hybrid & Gulf Opportunities  
+📧 Email: yovanece2002@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/yovan123/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a Digital Marketing and SEO professional with hands-on experience in SEO strategy, content marketing, AI-assisted research workflows, and growth marketing.
+
+I enjoy researching how AI is transforming search, content production, and organic growth for B2B SaaS companies.
+
+- 🔭 Currently researching AI-powered SEO frameworks for B2B SaaS
+- 🌱 Learning GA4, SQL Basics, and AI-driven content automation
+- 💬 Ask me about SEO, AI Research, Content Frameworks, GitHub & AI Tools
+- 🎯 Career Interests: SEO Analyst, Growth Marketing, AI SEO, Research Analyst
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 AI-Powered SEO Content Production for B2B SaaS
+
+Research project analyzing 10 industry experts across LinkedIn, YouTube, podcasts, and industry publications.
+
+Repository:
+https://github.com/Yovan155/100hires-portfolio-project
+
+---
+
+## 🛠️ Skills
+
+- SEO & Analytics
+- Technical SEO
+- Keyword Research
+- Google Search Console
+- Google Analytics 4
+- Content Strategy
+- Google Ads
+- Meta Ads
+- Git & GitHub
+- Canva
+- Microsoft Excel
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/yovan123/
+- Email: yovanece2002@gmail.com
