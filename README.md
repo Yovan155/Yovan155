@@ -53,3 +53,9 @@ https://github.com/Yovan155/100hires-portfolio-project
 
 - LinkedIn: https://www.linkedin.com/in/yovan123/
 - Email: yovanece2002@gmail.com
+
+- ## 📊 GitHub Stats
+
+![Yovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yovan155&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yovan155&layout=compact)
